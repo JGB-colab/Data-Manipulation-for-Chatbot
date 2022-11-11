@@ -9,3 +9,4 @@
   - Construction of algorithms to collect data for use in the bot by
     python language;
   - Use of javascrpit to build bot actions logic
+  - Construiction of files e api for interaction with bot;
